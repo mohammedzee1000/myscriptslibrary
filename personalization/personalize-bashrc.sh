@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 if [ `whoami` == 'zahmed' ]; then
     ZUNM='mzee1000';
 else
